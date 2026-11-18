@@ -1,0 +1,9 @@
+• Windows (cmd.exe): .venv\Scripts\activate.bat
+• Windows (PowerShell): .venv\Scripts\Activate.ps1
+• macOS / Linux (bash/zsh): source .venv/bin/activate
+
+pip install <nome-do-pacote>
+
+pip freeze > requirements.txt
+
+deactivate
